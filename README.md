@@ -4,7 +4,7 @@ Bu çalışmam, ikinci el BMW piyasasındaki fiyatlandırma dinamiklerini anlama
 Projenin ayrıca bana kattıkları Basit Eda kavramlarını Basit bir proje üzerinden öğrenmekti.
 
 ###  Analiz Süreci
-Sadece kod yazmakla kalmayıp, verinin fısıldadığı içgörüleri ortaya çıkardık:
+
 * **Keşifçi Veri Analizi (EDA):** Pandas kütüphanesiyle binlerce satırlık veri setinde fiyat, model ve vites tipi gibi kritik değişkenler analiz edildi.
 * **Veri Görselleştirme:** Matplotlib kullanılarak piyasanın fiyat dağılımı ve model bazlı değer haritası görselleştirildi.
 * **Aykırı Değer (Outlier) Dedektifliği:** İstatistiksel olarak "hata" gibi duran yüksek fiyatlı araçlar mercek altına alındı.
